@@ -1,0 +1,7 @@
+JavaScript Scopes- Var
+
+JavaScript Scopes- Var, Let
+
+JavaScript Scopes- Var, Let, Const
+
+JavaScript Scopes- Var, Let, Const, Global
