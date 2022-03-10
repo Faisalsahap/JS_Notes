@@ -7,3 +7,7 @@ JavaScript Scopes- Var, Let, Const
 JavaScript Scopes- Var, Let, Const, Global
 
 I want to modify something.
+
+Adding the audio feature 
+
+Adding the video feature 
